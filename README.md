@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ricardoroche (also known as janglypants or Parapsilo)
+- 👋 Hi, I’m @ricardoroche.
 - 👀 I’m interested in data science, machine learning, trading, AI automation, and bass music.
-- 🌱 I’m currently learning advanced machine learning engineering and Chinese (Mandarin)..
+- 🌱 I’m currently learning advanced machine learning engineering and Chinese (Mandarin).
 - 📫 Find me on [LinkedIn](https://linkedin.com/in/reroche).
 
 <!---
