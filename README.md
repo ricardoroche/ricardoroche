@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ricardoroche.
 - 👀 I’m interested in data science, machine learning, trading, AI automation, and bass music.
 - 🌱 I’m currently learning advanced machine learning engineering and Chinese (Mandarin).
+- ✨ Check out my [personal website](https://reroche.com)!
 - 📫 Find me on [LinkedIn](https://linkedin.com/in/reroche).
 
 <!---
